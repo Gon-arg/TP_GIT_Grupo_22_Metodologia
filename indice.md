@@ -6,10 +6,10 @@ El objetivo es documentar los diferentes comandos **Git** vistos en la materia m
 
 ## Archivos principales
 
-- [git-add](git-add.md) → Explicacion del comando y ejemplos.
-- [git-clone](git-clone.md) → Explicacion del comando y ejemplos.
-- [git-commit](git-commit.md) → Explicacion del comando y ejemplos.
-- [git-init](git-init.md) → Explicacion del comando y ejemplos.
+- [git-add](/comandos/git-add.md) → Explicacion del comando y ejemplos.
+- [git-clone](/comandos/git-clone.md) → Explicacion del comando y ejemplos.
+- [git-commit](/comandos/git-commit.md) → Explicacion del comando y ejemplos.
+- [git-init](/comandos/git-init.md) → Explicacion del comando y ejemplos.
 
 
 
