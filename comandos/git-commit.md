@@ -24,14 +24,9 @@ Los tipos más comunes son:
 ## Variantes útiles
 
 ```bash
-# Abrir el editor de texto para escribir un mensaje largo
 git commit
-# Agregar todos los archivos modificados y commitear en un paso
-# (no incluye archivos nuevos sin seguimiento)
 git commit -a -m "fix: corregir typos generales"
-# Modificar el último commit (mensaje o archivos)
 git commit --amend -m "mensaje corregido"
-# Commit sin disparar hooks de Git
 git commit --no-verify -m "chore: commit de emergencia"
 ```
 El primer comando abre el editor de texto(nano,vim) para escribir el mensaje y guardar los cambios en el repositorio, el segundo permite guardar todos los archivos modificados , eliminados y ademas escribir el mensaje en consola entre comillas. El tercero  permite modificar el ultimo commit y tanto en los archivos como en el mensaje, el ultimo permite guardar sin verificaciones (hooks) de Git.
