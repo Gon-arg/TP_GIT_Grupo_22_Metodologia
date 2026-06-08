@@ -7,10 +7,23 @@ El objetivo es documentar los diferentes comandos **Git** vistos en la materia m
 ## Archivos principales
 
 - [git-add](/comandos/git-add.md) → Explicacion del comando y ejemplos.
+- [git-branch](/comandos/git-branch.md) → Explicacion del comando y ejemplos.
+- [git-checkout](/comandos/git-checkout.md) → Explicacion del comando y ejemplos.
 - [git-clone](/comandos/git-clone.md) → Explicacion del comando y ejemplos.
 - [git-commit](/comandos/git-commit.md) → Explicacion del comando y ejemplos.
-- [git-init](/comandos/git-init.md) → Explicacion del comando y ejemplos.
 - [git-diff](/comandos/git-diff.md) → Explicacion del comando y ejemplos.
+- [git-init](/comandos/git-init.md) → Explicacion del comando y ejemplos.
 - [git-log](/comandos/git-log.md) → Explicacion del comando y ejemplos.
+- [git-merge](/comandos/git-merge.md) → Explicacion del comando y ejemplos.
+- [git-pull](/comandos/git-pull.md) → Explicacion del comando y ejemplos.
+- [git-push](/comandos/git-push.md) → Explicacion del comando y ejemplos.
+- [git-rebase](/comandos/git-rebase.md) → Explicacion del comando y ejemplos.
+- [git-reflog](/comandos/git-reflog.md) → Explicacion del comando y ejemplos.
+- [git-remote](/comandos/git-remote.md) → Explicacion del comando y ejemplos.
+- [git-reset](/comandos/git-reset.md) → Explicacion del comando y ejemplos.
+- [git-revert](/comandos/git-revert.md) → Explicacion del comando y ejemplos.
+- [git-status](/comandos/git-status.md) → Explicacion del comando y ejemplos.
+- [IA](/IA.md) → Explicacion acerca de la utilizacion de la IA.
+- [estadisticas](/estadisticas.md) → Datos estadisticos del presente proyecto.
 
 
