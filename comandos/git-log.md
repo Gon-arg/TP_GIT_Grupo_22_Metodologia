@@ -14,7 +14,7 @@ git log --oneline --graph --all
 git log -5
 git log --oneline -- comandos/git-init.md
 git log --author="Nombre"
-git log --after="2024-01-01" --before="2024-12-31"
+git log --after="fecha1" --before="fecha2"
 git log --stat
 git log -p
 ```
