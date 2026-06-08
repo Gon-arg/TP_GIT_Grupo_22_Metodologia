@@ -2,6 +2,7 @@
 
 Este repositorio corresponde al **Trabajo Práctico GIT de la materia Metodologia de sistemas I**.  
 El objetivo es documentar los diferentes comandos **Git** vistos en la materia mediante la creación de archivos en formato Markdown (`.md`) que dan una explicacion de los distintos comandos con ejemplos de uso y buenas prácticas, con el fin de reafirmar el conocimiento visto en las clases.
+La forma de trabajar de los integrantes del grupo fue de dividir las tareas equitativamente, luego grabar los cambios en cada rama perteneciente a cada integrante y luego grabar los cambios de cada rama individual a la rama de desarrollo (rama dev), y por ultimo una vez terminado el desarrollo guardamos los cambios a la rama principal (rama main).
 
 
 ## Archivos principales
