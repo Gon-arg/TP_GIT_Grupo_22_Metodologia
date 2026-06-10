@@ -85,3 +85,5 @@ Si ya hiciste push del commit que queres deshacer usa `git revert` en vez de res
 
 - `git reset --hard` es prácticamente irreversible si no tenes los cambios guardados en otro lado se van para siempre.
 - Antes de usarlo fijate bien en qué commit estás con `git log --oneline` para no equivocarte de punto de destino.
+  
+### [volver al indice](../indice.md) 

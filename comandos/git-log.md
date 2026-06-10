@@ -39,3 +39,5 @@ EL primero da una ayuda resumida. EL segundo da el manual completo del sistema r
 ```
 
 Cada `*` es un commit. Las líneas y ramas muestran cómo se bifurca y une el historial.
+  
+### [volver al indice](../indice.md) 

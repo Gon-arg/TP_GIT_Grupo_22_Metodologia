@@ -18,4 +18,5 @@ comando: git branch -r
 df01000 chore: mover archivos de comandos a la carpeta comandos
 comando: git log --stat --oneline
 comando para el commit que tenga más archivos: git show df01000
-
+  
+### [volver al indice](/indice.md) 

@@ -19,3 +19,6 @@ git add -A
 git add -p archivo.md
 ```
 El primer comando agrega un archivo especifico, el segundo agrega varios archivos, el tercero agrega todos los cambios, el cuarto agrega todos los archivos modificados o eliminados que hayan estado en el ultimo commit, y el quinto agrega todos los archivos nuevos, modificados o eliminados. El ultimo  te permite agregar una parte del archivo.
+  
+   
+ ### [volver al indice](../indice.md) 
