@@ -73,3 +73,5 @@ git revert abc1234
 - `git revert` es el comando de deshacer mas seguro porque nunca toca el historial existente.
 - En este proyecto es uno de los tipos de commits requeridos asi que tiene que aparecer al menos una vez en el historial.
 - El mensaje del commit de revert deberia seguir la convencion: `revert: descripcion de lo que se deshace`.
+  
+### [volver al indice](../indice.md) 

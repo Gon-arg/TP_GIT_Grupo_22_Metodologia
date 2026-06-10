@@ -130,4 +130,6 @@ git lg
 - `nano` es la opcion mas amigable si no tenes experiencia editando en la terminal.
 - `vim` aparece mucho en tutoriales y servidores remotos asi que conviene saber al menos como salir con `:q!`.
 - Los alias ahorran bastante tiempo en comandos que usas todo el tiempo como `git log --oneline --graph --all`.
-```
+  
+### [volver al indice](../indice.md) 
+  

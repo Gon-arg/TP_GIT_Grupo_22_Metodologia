@@ -80,3 +80,6 @@ git config --global pull.rebase false
 
 - Antes de ponerte a codear, hace `git pull`. Antes de hacer `git push`, tambien.
 - Si estas en una rama feature que lleva varios dias  de vez en cuando actualizá `main` con pull. Asi los conflictos al mergear son muchos menos.
+
+  
+### [volver al indice](../indice.md) 

@@ -65,4 +65,6 @@ Si necesitas forzar el push `--force-with-lease` es la opcion mas segura: falla 
 
 - En este proyecto cada rama feature se sube con push para luego abrir un **Pull Request** en GitHub.
 - Nunca hacer force push sobre `main`.
-```
+
+  
+### [volver al indice](../indice.md) 

@@ -1,2 +1,5 @@
 El comando git rebase sirve para traer los cambios de otra rama a la tuya. Actualiza la rama con lo que hicieron los demas y quedan tus commits arriba del todo.
 A diferencia de git merge, rebase no crea un commit extra. Solo reescribe el historial para que quede todo mas limpio.
+
+  
+### [volver al indice](../indice.md) 

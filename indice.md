@@ -24,6 +24,7 @@ La forma de trabajar de los integrantes del grupo fue de dividir las tareas equi
 - [git-reset](/comandos/git-reset.md) → Explicacion del comando y ejemplos.
 - [git-revert](/comandos/git-revert.md) → Explicacion del comando y ejemplos.
 - [git-status](/comandos/git-status.md) → Explicacion del comando y ejemplos.
+- [herramientas-terminal](/comandos/herramientas-terminal.md) → Explicacion de comandos usados junto git y ejemplos.
 - [IA](/IA.md) → Explicacion acerca de la utilizacion de la IA.
 - [estadistica](/estadistica.md) → Datos estadisticos del presente proyecto.
 
