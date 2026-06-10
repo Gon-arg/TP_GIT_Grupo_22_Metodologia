@@ -38,3 +38,6 @@ git diff --help
 man git-diff
 ```
 El primer comando muestra la ayuda que trae git para "git diff". El segundo el manual completo delsistema mas detallado.
+
+  
+### [volver al indice](../indice.md) 

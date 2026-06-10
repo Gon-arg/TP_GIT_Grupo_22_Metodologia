@@ -66,4 +66,6 @@ M  comandos/git-init.md    <- modificado y en staging
 
 - `git status` nunca modifica nada, es solo lectura. Podes ejecutarlo las veces que quieras sin ningun riesgo.
 - Si ves "nothing to commit, working tree clean" significa que no hay nada pendiente.
-```
+
+  
+### [volver al indice](../indice.md) 

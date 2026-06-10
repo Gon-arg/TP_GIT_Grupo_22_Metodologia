@@ -30,3 +30,6 @@ git commit --amend -m "mensaje corregido"
 git commit --no-verify -m "chore: commit de emergencia"
 ```
 El primer comando abre el editor de texto(nano,vim) para escribir el mensaje y guardar los cambios en el repositorio, el segundo permite guardar todos los archivos modificados , eliminados y ademas escribir el mensaje en consola entre comillas. El tercero  permite modificar el ultimo commit y tanto en los archivos como en el mensaje, el ultimo permite guardar sin verificaciones (hooks) de Git.
+
+  
+### [volver al indice](../indice.md) 

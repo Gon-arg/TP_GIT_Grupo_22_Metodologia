@@ -24,3 +24,6 @@ git checkout main
 ```
 
 Estos cuatro comandos son el equivalente a ejecutar `git clone`. Por ultimo este comando se ejecuta sin inconvenientes cuando el repositorio es publico, y cuando es privado Git solicita alguna autenticacion o token.
+
+  
+ ### [volver al indice](../indice.md) 
