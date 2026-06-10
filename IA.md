@@ -33,3 +33,5 @@ git log --stat --oneline
 # Ver detalle y diff de un commit específico
 git show df01000
 ```
+  
+### [volver al indice](/indice.md) 
